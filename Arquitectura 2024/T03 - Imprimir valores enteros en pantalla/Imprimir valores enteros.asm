@@ -1,4 +1,5 @@
 ; Programa para imprimir un valor entero
+; Juan Diego Marroquín Escobar 1689821
 
 %include '../../stdio/stdio32.asm'
 
